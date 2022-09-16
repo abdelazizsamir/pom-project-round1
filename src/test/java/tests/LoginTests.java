@@ -13,7 +13,7 @@ import static fileReaderManager.ReadFromFiles.getPropertyByKey;
 public class LoginTests extends BaseTests_Parent{
 
 
-
+// comment for github
     @Test(priority = 1)
     public void testLoginToApp ()
     {
